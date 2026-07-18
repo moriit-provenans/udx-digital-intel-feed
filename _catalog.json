@@ -12,21 +12,24 @@
       "track": "B",
       "phase": 0,
       "automation": "full",
-      "status": "planned"
+      "status": "live",
+      "last_feed_update": "2026-07-18"
     },
     {
       "metric_id": "udx.search.trends_ma_cdp_jp",
       "track": "B",
       "phase": 0,
       "automation": "full",
-      "status": "planned"
+      "status": "live",
+      "last_feed_update": "2026-07-18"
     },
     {
       "metric_id": "udx.search.trends_llmo_jp",
       "track": "B",
       "phase": 0,
       "automation": "full",
-      "status": "planned"
+      "status": "live",
+      "last_feed_update": "2026-07-18"
     },
     {
       "metric_id": "udx.search.ecommerce_interest_by_country",

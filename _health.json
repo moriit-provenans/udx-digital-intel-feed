@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "checked_at": "2026-07-18",
   "feed_status": "phase1_partial",
-  "live_series": 8,
+  "live_series": 11,
   "stale_series": [],
-  "note": "Partial seed from PROVE reuse. Google Trends / StatCounter / EF EPI pending."
+  "note": "Trends=True"
 }

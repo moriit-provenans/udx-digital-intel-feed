@@ -65,6 +65,30 @@
       "n_observations": 520,
       "retrieved_at": "2026-07-18",
       "track": "A"
+    },
+    {
+      "metric_id": "udx.search.trends_llmo_jp",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 261,
+      "retrieved_at": "2026-07-18",
+      "track": "B"
+    },
+    {
+      "metric_id": "udx.search.trends_ma_cdp_jp",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 261,
+      "retrieved_at": "2026-07-18",
+      "track": "B"
+    },
+    {
+      "metric_id": "udx.search.trends_multilang_seo_jp",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 261,
+      "retrieved_at": "2026-07-18",
+      "track": "B"
     }
   ]
 }

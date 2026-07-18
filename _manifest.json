@@ -19,7 +19,7 @@
     "veritas",
     "track"
   ],
-  "note": "Phase1 partial: PROVE macro/infra reuse + static languages. Trends/StatCounter/EF next.",
+  "note": "Phase1: PROVE reuse + EF EPI + Trends(if ok). StatCounter/editorial pending.",
   "live_metrics": [
     "udx.infra.fixed_broadband",
     "udx.infra.internet_penetration",
@@ -28,6 +28,9 @@
     "udx.macro.gdp_nominal",
     "udx.macro.gdp_per_capita",
     "udx.macro.population",
-    "udx.macro.urban_population_pct"
+    "udx.macro.urban_population_pct",
+    "udx.search.trends_llmo_jp",
+    "udx.search.trends_ma_cdp_jp",
+    "udx.search.trends_multilang_seo_jp"
   ]
 }
