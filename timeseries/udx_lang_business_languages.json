@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0.0",
+  "metric_id": "udx.lang.business_languages",
+  "track": "B",
+  "last_updated": "2026-07-18",
+  "observations": [
+    {
+      "metric_id": "udx.lang.business_languages",
+      "track": "B",
+      "geo": "JP",
+      "period": "2026",
+      "period_type": "static",
+      "value": [
+        "Japanese"
+      ],
+      "unit": "language_list",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "source": "Atlas static (CIA Factbook style)",
+      "source_ref": "static/business_languages_v1",
+      "note": "公用語"
+    },
+    {
+      "metric_id": "udx.lang.business_languages",
+      "track": "B",
+      "geo": "US",
+      "period": "2026",
+      "period_type": "static",
+      "value": [
+        "English"
+      ],
+      "unit": "language_list",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "source": "Atlas static (CIA Factbook style)",
+      "source_ref": "static/business_languages_v1",
+      "note": "static seed"
+    },
+    {
+      "metric_id": "udx.lang.business_languages",
+      "track": "B",
+      "geo": "CN",
+      "period": "2026",
+      "period_type": "static",
+      "value": [
+        "Chinese (Mandarin)"
+      ],
+      "unit": "language_list",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "source": "Atlas static (CIA Factbook style)",
+      "source_ref": "static/business_languages_v1",
+      "note": "static seed"
+    },
+    {
+      "metric_id": "udx.lang.business_languages",
+      "track": "B",
+      "geo": "VN",
+      "period": "2026",
+      "period_type": "static",
+      "value": [
+        "Vietnamese"
+      ],
+      "unit": "language_list",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "source": "Atlas static (CIA Factbook style)",
+      "source_ref": "static/business_languages_v1",
+      "note": "ビジネスは英語併用多"
+    },
+    {
+      "metric_id": "udx.lang.business_languages",
+      "track": "B",
+      "geo": "TH",
+      "period": "2026",
+      "period_type": "static",
+      "value": [
+        "Thai"
+      ],
+      "unit": "language_list",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "source": "Atlas static (CIA Factbook style)",
+      "source_ref": "static/business_languages_v1",
+      "note": "static seed"
+    },
+    {
+      "metric_id": "udx.lang.business_languages",
+      "track": "B",
+      "geo": "ID",
+      "period": "2026",
+      "period_type": "static",
+      "value": [
+        "Indonesian"
+      ],
+      "unit": "language_list",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "source": "Atlas static (CIA Factbook style)",
+      "source_ref": "static/business_languages_v1",
+      "note": "static seed"
+    },
+    {
+      "metric_id": "udx.lang.business_languages",
+      "track": "B",
+      "geo": "IN",
+      "period": "2026",
+      "period_type": "static",
+      "value": [
+        "Hindi",
+        "English"
+      ],
+      "unit": "language_list",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "source": "Atlas static (CIA Factbook style)",
+      "source_ref": "static/business_languages_v1",
+      "note": "州言語多数"
+    },
+    {
+      "metric_id": "udx.lang.business_languages",
+      "track": "B",
+      "geo": "SG",
+      "period": "2026",
+      "period_type": "static",
+      "value": [
+        "English",
+        "Malay",
+        "Chinese",
+        "Tamil"
+      ],
+      "unit": "language_list",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "source": "Atlas static (CIA Factbook style)",
+      "source_ref": "static/business_languages_v1",
+      "note": "static seed"
+    },
+    {
+      "metric_id": "udx.lang.business_languages",
+      "track": "B",
+      "geo": "DE",
+      "period": "2026",
+      "period_type": "static",
+      "value": [
+        "German"
+      ],
+      "unit": "language_list",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "source": "Atlas static (CIA Factbook style)",
+      "source_ref": "static/business_languages_v1",
+      "note": "static seed"
+    },
+    {
+      "metric_id": "udx.lang.business_languages",
+      "track": "B",
+      "geo": "FR",
+      "period": "2026",
+      "period_type": "static",
+      "value": [
+        "French"
+      ],
+      "unit": "language_list",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "source": "Atlas static (CIA Factbook style)",
+      "source_ref": "static/business_languages_v1",
+      "note": "static seed"
+    }
+  ]
+}
