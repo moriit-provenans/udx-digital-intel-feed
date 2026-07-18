@@ -1,5 +1,70 @@
-﻿{
+{
   "schema_version": "1.0.0",
   "last_updated": "2026-07-18",
-  "series": []
+  "series": [
+    {
+      "metric_id": "udx.infra.fixed_broadband",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 487,
+      "retrieved_at": "2026-07-18",
+      "track": "Both"
+    },
+    {
+      "metric_id": "udx.infra.internet_penetration",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 503,
+      "retrieved_at": "2026-07-18",
+      "track": "Both"
+    },
+    {
+      "metric_id": "udx.infra.mobile_subscriptions",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 498,
+      "retrieved_at": "2026-07-18",
+      "track": "Both"
+    },
+    {
+      "metric_id": "udx.lang.business_languages",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 10,
+      "retrieved_at": "2026-07-18",
+      "track": "B"
+    },
+    {
+      "metric_id": "udx.macro.gdp_nominal",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 531,
+      "retrieved_at": "2026-07-18",
+      "track": "A"
+    },
+    {
+      "metric_id": "udx.macro.gdp_per_capita",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 531,
+      "retrieved_at": "2026-07-18",
+      "track": "A"
+    },
+    {
+      "metric_id": "udx.macro.population",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 532,
+      "retrieved_at": "2026-07-18",
+      "track": "A"
+    },
+    {
+      "metric_id": "udx.macro.urban_population_pct",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 520,
+      "retrieved_at": "2026-07-18",
+      "track": "A"
+    }
+  ]
 }
