@@ -1,0 +1,20 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "UDX Intel Observation",
+  "type": "object",
+  "required": ["metric_id", "as_of_date", "still_valid_2026", "retrieved_at", "veritas", "track", "value"],
+  "properties": {
+    "metric_id": {"type": "string"},
+    "track": {"enum": ["A", "B", "Both"]},
+    "as_of_date": {"type": "string"},
+    "still_valid_2026": {},
+    "retrieved_at": {"type": "string"},
+    "veritas": {"type": "string"},
+    "geo": {"type": "string"},
+    "value": {},
+    "unit": {"type": "string"},
+    "source": {"type": "string"},
+    "source_ref": {"type": "string"},
+    "note": {"type": "string"}
+  }
+}

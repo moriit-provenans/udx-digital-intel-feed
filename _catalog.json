@@ -1,0 +1,21 @@
+﻿{
+  "schema_version": "1.0.0",
+  "last_updated": "2026-07-18",
+  "tracks": ["A", "B", "Both"],
+  "metrics": [
+    {"metric_id": "udx.search.trends_multilang_seo_jp", "track": "B", "phase": 0, "automation": "full", "status": "planned"},
+    {"metric_id": "udx.search.trends_ma_cdp_jp", "track": "B", "phase": 0, "automation": "full", "status": "planned"},
+    {"metric_id": "udx.search.trends_llmo_jp", "track": "B", "phase": 0, "automation": "full", "status": "planned"},
+    {"metric_id": "udx.search.ecommerce_interest_by_country", "track": "B", "phase": 0, "automation": "full", "status": "planned"},
+    {"metric_id": "udx.infra.internet_penetration", "track": "Both", "phase": 0, "automation": "full", "status": "planned", "reuse": "prove-global-data-hub-feed"},
+    {"metric_id": "udx.infra.mobile_subscriptions", "track": "Both", "phase": 0, "automation": "full", "status": "planned", "reuse": "prove-global-data-hub-feed"},
+    {"metric_id": "udx.infra.fixed_broadband", "track": "Both", "phase": 0, "automation": "full", "status": "planned", "reuse": "prove-global-data-hub-feed"},
+    {"metric_id": "udx.browser.os_share", "track": "B", "phase": 0, "automation": "full", "status": "planned"},
+    {"metric_id": "udx.lang.ef_epi", "track": "B", "phase": 0, "automation": "full", "status": "planned"},
+    {"metric_id": "udx.lang.business_languages", "track": "B", "phase": 0, "automation": "static", "status": "planned"},
+    {"metric_id": "udx.macro.gdp_nominal", "track": "A", "phase": 0, "automation": "full", "status": "planned", "reuse": "prove-global-data-hub-feed"},
+    {"metric_id": "udx.macro.population", "track": "A", "phase": 0, "automation": "full", "status": "planned", "reuse": "prove-global-data-hub-feed"},
+    {"metric_id": "udx.macro.gdp_per_capita", "track": "A", "phase": 0, "automation": "full", "status": "planned", "reuse": "prove-global-data-hub-feed"},
+    {"metric_id": "udx.macro.urban_population_pct", "track": "A", "phase": 0, "automation": "full", "status": "planned", "reuse": "prove-global-data-hub-feed"}
+  ]
+}

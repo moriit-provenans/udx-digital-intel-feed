@@ -1,0 +1,13 @@
+﻿{
+  "schema_version": "1.0.0",
+  "feed_id": "udx-digital-intel",
+  "title": "UDX Digital Intelligence Hub Public Feed",
+  "owner": "Atlas",
+  "consumer": "Smith / udx.co.jp",
+  "req": "REQ-SMITH-20260718-003",
+  "status": "phase0_skeleton",
+  "last_updated": "2026-07-18",
+  "cadence": {"trends": "weekly", "world_bank": "monthly", "editorial": "as_needed"},
+  "freshness_fields_required": ["as_of_date", "still_valid_2026", "retrieved_at", "veritas", "track"],
+  "note": "Phase0 skeleton. Live metrics land in Phase1 after GO."
+}
