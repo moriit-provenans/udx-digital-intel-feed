@@ -1,8 +1,9 @@
 {
   "schema_version": "1.0.0",
-  "checked_at": "2026-07-18",
-  "feed_status": "phase1_partial",
-  "live_series": 11,
+  "checked_at": "2026-07-19",
+  "feed_status": "phase1_mvp",
+  "live_series": 12,
   "stale_series": [],
-  "note": "Trends=True"
+  "ef_epi_geos": 117,
+  "note": "Trends slot kept prior seed / skipped (all trends failed or blocked; detail={'udx.search.trends_multilang_seo_jp': \"fail:TypeError:Retry.__init__() got an unexpected keyword argument 'method_whitelist'\", 'udx.search.trends_ma_cdp_jp': \"fail:TypeError:Retry.__init__() got an unexpected keyword argument 'method_whitelist'\", 'udx.search.trends_llmo_jp': \"fail:TypeError:Retry.__init__() got an unexpected keyword argument 'method_whitelist'\"})"
 }

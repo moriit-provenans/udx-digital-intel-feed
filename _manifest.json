@@ -5,10 +5,11 @@
   "owner": "Atlas",
   "consumer": "Smith / udx.co.jp",
   "req": "REQ-SMITH-20260718-003",
-  "status": "phase1_partial_seed",
-  "last_updated": "2026-07-18",
+  "status": "phase1_mvp_seed",
+  "last_updated": "2026-07-19",
   "cadence": {
     "trends": "weekly",
+    "ef_epi": "annual",
     "world_bank": "monthly",
     "editorial": "as_needed"
   },
@@ -19,12 +20,13 @@
     "veritas",
     "track"
   ],
-  "note": "Phase1: PROVE reuse + EF EPI + Trends(if ok). StatCounter/editorial pending.",
+  "note": "Phase1 MVP: PROVE reuse + EF EPI(117 geos) + Trends. Trends slot kept prior seed / skipped (all trends failed or blocked; detail={'udx.search.trends_multilang_seo_jp': \"fail:TypeError:Retry.__init__() got an unexpected keyword argument 'method_whitelist'\", 'udx.search.trends_ma_cdp_jp': \"fail:TypeError:Retry.__init__() got an unexpected keyword argument 'method_whitelist'\", 'udx.search.trends_llmo_jp': \"fail:TypeError:Retry.__init__() got an unexpected keyword argument 'method_whitelist'\"})",
   "live_metrics": [
     "udx.infra.fixed_broadband",
     "udx.infra.internet_penetration",
     "udx.infra.mobile_subscriptions",
     "udx.lang.business_languages",
+    "udx.lang.ef_epi",
     "udx.macro.gdp_nominal",
     "udx.macro.gdp_per_capita",
     "udx.macro.population",
@@ -32,5 +34,11 @@
     "udx.search.trends_llmo_jp",
     "udx.search.trends_ma_cdp_jp",
     "udx.search.trends_multilang_seo_jp"
-  ]
+  ],
+  "prove_reuse": {
+    "repo": "https://github.com/moriit-provenans/prove-global-data-hub-feed",
+    "series": [
+      "timeseries/macro_annual.json (IT.NET.USER.ZS, IT.CEL.SETS.P2, IT.NET.BBND.P2, NY.GDP.*, SP.POP.*, SP.URB.TOTL.IN.ZS)"
+    ]
+  }
 }

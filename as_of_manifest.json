@@ -1,94 +1,54 @@
 {
   "schema_version": "1.0.0",
-  "last_updated": "2026-07-18",
-  "series": [
-    {
-      "metric_id": "udx.infra.fixed_broadband",
+  "generated_at": "2026-07-19",
+  "metrics": {
+    "udx.infra.fixed_broadband": {
       "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 487,
-      "retrieved_at": "2026-07-18",
-      "track": "Both"
+      "status": "live"
     },
-    {
-      "metric_id": "udx.infra.internet_penetration",
+    "udx.infra.internet_penetration": {
       "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 503,
-      "retrieved_at": "2026-07-18",
-      "track": "Both"
+      "status": "live"
     },
-    {
-      "metric_id": "udx.infra.mobile_subscriptions",
+    "udx.infra.mobile_subscriptions": {
       "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 498,
-      "retrieved_at": "2026-07-18",
-      "track": "Both"
+      "status": "live"
     },
-    {
-      "metric_id": "udx.lang.business_languages",
+    "udx.lang.business_languages": {
       "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 10,
-      "retrieved_at": "2026-07-18",
-      "track": "B"
+      "status": "live"
     },
-    {
-      "metric_id": "udx.macro.gdp_nominal",
-      "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 531,
-      "retrieved_at": "2026-07-18",
-      "track": "A"
+    "udx.lang.ef_epi": {
+      "as_of_date": "2026-07-19",
+      "status": "live"
     },
-    {
-      "metric_id": "udx.macro.gdp_per_capita",
+    "udx.macro.gdp_nominal": {
       "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 531,
-      "retrieved_at": "2026-07-18",
-      "track": "A"
+      "status": "live"
     },
-    {
-      "metric_id": "udx.macro.population",
+    "udx.macro.gdp_per_capita": {
       "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 532,
-      "retrieved_at": "2026-07-18",
-      "track": "A"
+      "status": "live"
     },
-    {
-      "metric_id": "udx.macro.urban_population_pct",
+    "udx.macro.population": {
       "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 520,
-      "retrieved_at": "2026-07-18",
-      "track": "A"
+      "status": "live"
     },
-    {
-      "metric_id": "udx.search.trends_llmo_jp",
+    "udx.macro.urban_population_pct": {
       "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 261,
-      "retrieved_at": "2026-07-18",
-      "track": "B"
+      "status": "live"
     },
-    {
-      "metric_id": "udx.search.trends_ma_cdp_jp",
-      "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 261,
-      "retrieved_at": "2026-07-18",
-      "track": "B"
+    "udx.search.trends_llmo_jp": {
+      "as_of_date": "2026-07-19",
+      "status": "live"
     },
-    {
-      "metric_id": "udx.search.trends_multilang_seo_jp",
-      "as_of_date": "2026-07-18",
-      "still_valid_2026": true,
-      "n_observations": 261,
-      "retrieved_at": "2026-07-18",
-      "track": "B"
+    "udx.search.trends_ma_cdp_jp": {
+      "as_of_date": "2026-07-19",
+      "status": "live"
+    },
+    "udx.search.trends_multilang_seo_jp": {
+      "as_of_date": "2026-07-19",
+      "status": "live"
     }
-  ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "tracks": [
     "A",
     "B",
@@ -13,7 +13,7 @@
       "phase": 0,
       "automation": "full",
       "status": "live",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "udx.search.trends_ma_cdp_jp",
@@ -21,7 +21,7 @@
       "phase": 0,
       "automation": "full",
       "status": "live",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "udx.search.trends_llmo_jp",
@@ -29,7 +29,7 @@
       "phase": 0,
       "automation": "full",
       "status": "live",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "udx.search.ecommerce_interest_by_country",
@@ -45,7 +45,7 @@
       "automation": "full",
       "status": "live",
       "reuse": "prove-global-data-hub-feed",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "udx.infra.mobile_subscriptions",
@@ -54,7 +54,7 @@
       "automation": "full",
       "status": "live",
       "reuse": "prove-global-data-hub-feed",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "udx.infra.fixed_broadband",
@@ -63,7 +63,7 @@
       "automation": "full",
       "status": "live",
       "reuse": "prove-global-data-hub-feed",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "udx.browser.os_share",
@@ -77,7 +77,9 @@
       "track": "B",
       "phase": 0,
       "automation": "full",
-      "status": "planned"
+      "status": "live",
+      "last_feed_update": "2026-07-19",
+      "source": "EF EPI via Wikipedia"
     },
     {
       "metric_id": "udx.lang.business_languages",
@@ -85,7 +87,7 @@
       "phase": 0,
       "automation": "static",
       "status": "live",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "udx.macro.gdp_nominal",
@@ -94,7 +96,7 @@
       "automation": "full",
       "status": "live",
       "reuse": "prove-global-data-hub-feed",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "udx.macro.population",
@@ -103,7 +105,7 @@
       "automation": "full",
       "status": "live",
       "reuse": "prove-global-data-hub-feed",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "udx.macro.gdp_per_capita",
@@ -112,7 +114,7 @@
       "automation": "full",
       "status": "live",
       "reuse": "prove-global-data-hub-feed",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "udx.macro.urban_population_pct",
@@ -121,7 +123,7 @@
       "automation": "full",
       "status": "live",
       "reuse": "prove-global-data-hub-feed",
-      "last_feed_update": "2026-07-18"
+      "last_feed_update": "2026-07-19"
     }
   ]
 }
