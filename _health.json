@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "checked_at": "2026-07-19",
+  "checked_at": "2026-10-29",
   "feed_status": "phase1_mvp",
   "live_series": 12,
   "stale_series": [],

@@ -10,7 +10,7 @@ Smith が udx.co.jp `/intel/` に同期する。
 | **Req** | REQ-SMITH-20260718-003 |
 | **Schema** | PROVE timeseries v2 同型 + `track: A\|B\|Both` |
 | **Cadence** | Trends 週次 / EF EPI 年次 / WB・ITU（PROVE reuse）月次想定 |
-| **Status** | Phase 1 MVP seed（2026-07-19） |
+| **Status** | Phase 1 MVP seed（2026-10-29） |
 
 ## Layout
 

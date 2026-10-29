@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-19",
+  "generated_at": "2026-10-29",
   "metrics": {
     "udx.infra.fixed_broadband": {
       "as_of_date": "2026-07-18",
@@ -19,7 +19,7 @@
       "status": "live"
     },
     "udx.lang.ef_epi": {
-      "as_of_date": "2026-07-19",
+      "as_of_date": "2026-10-29",
       "status": "live"
     },
     "udx.macro.gdp_nominal": {
@@ -39,15 +39,15 @@
       "status": "live"
     },
     "udx.search.trends_llmo_jp": {
-      "as_of_date": "2026-07-19",
+      "as_of_date": "2026-10-29",
       "status": "live"
     },
     "udx.search.trends_ma_cdp_jp": {
-      "as_of_date": "2026-07-19",
+      "as_of_date": "2026-10-29",
       "status": "live"
     },
     "udx.search.trends_multilang_seo_jp": {
-      "as_of_date": "2026-07-19",
+      "as_of_date": "2026-10-29",
       "status": "live"
     }
   }
